@@ -16,4 +16,6 @@ I will work through the examples and make them availiable on a Patreon whilst sh
 * Things to do
 - [X] make a github
 - [ ] load images and pde files into git
+- [ ] rename sketches to be in accordance with the sketch numbers in the book
 
+  
