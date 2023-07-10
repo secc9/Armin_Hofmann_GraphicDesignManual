@@ -4,4 +4,20 @@
 body{
     text-align: center;
     background-color: rgb(170, 158, 158);
+    font-family: monospace;
+    font-palette: light
+}
+
+
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 50px;
+}
+
+p{
+    
+    font-size: 24px;
+    
 }
