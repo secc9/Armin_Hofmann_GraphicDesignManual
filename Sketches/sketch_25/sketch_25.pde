@@ -13,6 +13,8 @@
   
 int whiteBoxSize;
 
+WhiteLines w1;
+
 
 
 void setup() {
@@ -23,24 +25,17 @@ void setup() {
   background(0);
   frameRate(60);
   
-
-
-
-
+  w1 = new WhiteLines(0, 0);
 
 
 }
 
 void draw() {
 
- 
-strokeWeight(1);
-stroke(255);
-line(width/3, 0, width/3, height);
-line(width/1.5, 0, width/1.5, height);
-line(0, height/3, width, height/3);
-line(0, height/1.5, width, height/1.5);
 
+  
+  w1.display();
+  //w1.move();
 
 
 
@@ -82,6 +77,6 @@ void frame() {
 
 void mousePressed() {
 
-  save("tiff/output/image25.tiff");
-  save("png/output/image25.png");
+  save("tiff/output/image25a.tiff");
+  save("png/output/image25a.png");
 }

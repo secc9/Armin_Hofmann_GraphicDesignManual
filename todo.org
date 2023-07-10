@@ -29,5 +29,19 @@ I will work through the examples and make them availiable on a Patreon whilst sh
   - [ ] maybe make 1 black square which is devided into 9 equal parts and each white block is randomly assigned??
 
 
+* 2023_07_10
+- [X] its now the 10th and Ive done nothing.
 
+  
+- [X] OK. sketch 26
+
+- [X] make the sketch as dfrawn
+
+- [X] upoload the last sketch 25 to the gitblog
+  
+- [X] upload sketch 26 to blog
+
+- [ ] upload to github
+
+- 
 
