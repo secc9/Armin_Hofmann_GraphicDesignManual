@@ -16,6 +16,18 @@ I will work through the examples and make them availiable on a Patreon whilst sh
 * Things to do
 - [X] make a github
 - [ ] load images and pde files into git
-- [ ] rename sketches to be in accordance with the sketch numbers in the book
 
-  
+
+* 2023_07_05
+- [ ] start on sketch 26
+  How to approach sketch 26??
+
+  - [ ] make the original sketch
+
+  - [ ] make shapes into classes?
+
+  - [ ] maybe make 1 black square which is devided into 9 equal parts and each white block is randomly assigned??
+
+
+
+
