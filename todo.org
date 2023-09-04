@@ -43,5 +43,16 @@ I will work through the examples and make them availiable on a Patreon whilst sh
 
 - [ ] upload to github
 
-- 
+* TODO 2023_07_11
+
+- [ ] image 26
+- [ ] figure out a way to randomise white blocks onto the balck squares? 
+- [ ] make one black square class
+- [ ] make a randomly appearing white square(s) appear on the black square class
+  - [ ] 9 white squares at 100x100px
+  - [ ] they all randomly appear with alpha at either 0 of 255
+  - [ ] 
+  - 
+
+* TODO 
 
